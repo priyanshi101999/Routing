@@ -1,0 +1,14 @@
+div{
+
+    height: 300px;
+    border: 20px solid black;
+    padding: 40px;
+    text-align: center;
+    text-justify: auto;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    color: rgb(6, 5, 5);
+
+}

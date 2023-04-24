@@ -1,0 +1,28 @@
+.navBar{
+    background-color: black;
+    display: flex;
+    padding: 20px 56px 20px 56px;
+    justify-content: space-between;
+}
+
+   
+.navItems{
+    color: rgb(143, 142, 142);
+    display: flex;
+    gap: 32px;
+}
+
+a{
+    color: rgb(255, 255, 255);
+}
+
+.logo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    color: white;
+}
+
+a:selacted{
+    color: white;
+}
